@@ -40,3 +40,7 @@
 
   
 }
+
+body{
+  overflow: hidden; /* Sem rolagem */
+}
